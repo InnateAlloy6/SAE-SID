@@ -24,8 +24,8 @@ Un modèle structuré permet d’intégrer et de lier les données de différent
 
 ### 3. Processus ETL (Extraction, Transformation, Chargement) 
 - **Granularité** : 
-  - Finesse pour les données transactionnelles. 
-  - Données générales pour les avis clients. 
+  - Plateforme spécifique: Séparer les ventes selon les plateformes spécifiques pour comprendre comment chaque plateforme évolue.
+  - Genre de jeu: Catégoriser les jeux par genre pour étudier les préférences des joueurs par plateforme.
 
 - **Mise à jour périodique** : Alimentation mensuelle du SID. 
 
