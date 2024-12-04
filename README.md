@@ -37,9 +37,9 @@ Les analyses incluent :
 - Répartition des consommateurs par tranche d’âge. 
 
 ## Auteurs 
-- Matteo Cai 
-- Diego Casas 
-- **Leo Jean Unite** 
+- [Matteo Cai]()
+- [Diego Casas](https://github.com/InnateAlloy6) 
+- **[Leo Jean Unite](https://github.com/TheColonel92)** 
 
 Projet réalisé dans le cadre du module **SF23Y020 – Intégration de données dans un Datawarehouse**. 
 
