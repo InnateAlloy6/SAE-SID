@@ -57,6 +57,10 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
 ## Modification:
 - Changement de problématique
   - Quels sont les plus grands consommateurs de produits en ligne ?
+- Changelent de données:
+  - [Video Game Sales Dataset Updated -Extra Feat](https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat)
+  - [Top 1500 games on steam by revenue 09-09-2024](https://www.kaggle.com/datasets/alicemtopcu/top-1500-games-on-steam-by-revenue-09-09-2024)
+  - [Epic Games Store](https://www.kaggle.com/datasets/ramjasmaurya/epic-games-store)
 - Rapport 3
 
 # 08/01/2025 - Continuation du projet
