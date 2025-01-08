@@ -56,4 +56,4 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
 
 ## Modification:
 - Changement de problématique
-- - Quels sont les plus grands consommateurs de produits en ligne ?
+  - Quels sont les plus grands consommateurs de produits en ligne ?
