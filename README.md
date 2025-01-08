@@ -66,4 +66,5 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
 # 08/01/2025 - Continuation du projet
 - Rassemblement des données
 - Mise en place des données sous PowerBI
+  - Conversion des données incohérentes 
   - Ajustement en graphique
