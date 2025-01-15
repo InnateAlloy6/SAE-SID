@@ -71,3 +71,17 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
 
 # 15/01/2025
 - [Description du Rapport Finale](https://up75-my.sharepoint.com/:b:/g/personal/leo-jean_unite_etu_u-paris_fr/EXwHu-M2d-dCquvAS-JFbvsBYkcOgmbBrqF1TFYAluA6bg?e=IQDPtD)
+- PowerBI
+  - Importation des données
+    - EPIC
+      - Correction de divers variables
+        - Date
+        - Prix
+          - Conversion
+  - STEAM
+    - Remplacement de "." par "," pour les valeurs décimales
+    - Changement de type de divers variable: texte -> numérique
+      - Arrondie des valeurs de variable numérique (ex: AveragePlayTime)
+  - Video Games
+    - Changement de type pour les dates (Texte -> Date)
+    - Remplacement de "." par "," pour les valeurs numériques
