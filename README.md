@@ -50,7 +50,7 @@ Projet réalisé dans le cadre du module **SF23Y020 – Intégration de données
 ## License 
 Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d’informations. 
 
-----------------
+----
 # 04/12/2024 - Création d'un dossier commun Github
 Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/personal/leo-jean_unite_etu_u-paris_fr/EqiZWGWtvFpEk5rG8xhknTABkemmmbbd0obIYjkIXZsMcg?e=Rxe9zh) ---> Github
 
@@ -68,3 +68,6 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
 - Mise en place des données sous PowerBI
   - Conversion des données incohérentes 
   - Ajustement en graphique
+
+# 15/01/2025
+- [Description du Rapport Finale](https://up75-my.sharepoint.com/:b:/g/personal/leo-jean_unite_etu_u-paris_fr/EXwHu-M2d-dCquvAS-JFbvsBYkcOgmbBrqF1TFYAluA6bg?e=IQDPtD)
