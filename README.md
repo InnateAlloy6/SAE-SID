@@ -85,3 +85,8 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
   - Video Games
     - Changement de type pour les dates (Texte -> Date)
     - Remplacement de "." par "," pour les valeurs numériques
+
+# 20/01/2025
+- Rédaction du rapport rapport finale
+- Finalisation de la mise en place des données
+  - Mise en place des visualisations
