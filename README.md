@@ -89,6 +89,6 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
   
 # 20/01/2025
 - Rédaction du rapport rapport finale
-- Mise en place du modéle de données en "étoile" pour le rating
+- Mise en place du modéle de données en "étoile" pour les notations
 - Finalisation de la mise en place des données
   - Mise en place des visualisations
