@@ -61,7 +61,7 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
   - [Video Game Sales Dataset Updated -Extra Feat](https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat)
   - [Top 1500 games on steam by revenue 09-09-2024](https://www.kaggle.com/datasets/alicemtopcu/top-1500-games-on-steam-by-revenue-09-09-2024)
   - [Epic Games Store](https://www.kaggle.com/datasets/ramjasmaurya/epic-games-store)
-- Rédaction du Rapport 3
+- Rédaction du [Rapport 3](https://github.com/InnateAlloy6/SAE-SID/blob/main/Rapport/CommerceEnLigne_Rapport_3_CAI_CASAS_UNITE.pdf)
 
 # 08/01/2025 - Continuation du projet
 - Rassemblement des données
