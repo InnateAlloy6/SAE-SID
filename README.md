@@ -1,40 +1,45 @@
 # SAE-SID
 
-# Analyse des tendences d'achats des jeux videos en ligne 
+# Analyse des tendances d'achat des jeux vidéo en ligne
 
 ## Description du Projet 
-Ce projet vise à analyser les comportements des consommateurs dans le domaine du commerce en ligne de jeux videos afin de répondre à la problématique :   
-
-**”Quelle est la rentabilité des jeux vidéo selon les plateformes (PC, consoles, mobile) et quels sont les facteurs qui influencent cette rentabilité ?”** 
+Ce projet vise à analyser les comportements des consommateurs dans le domaine du commerce en ligne de jeux vidéo afin de répondre à la problématique :
+**”Quels sont les plus grands consommateurs de produits en ligne ?”** 
 L’objectif est de fournir des insights détaillés en exploitant diverses sources de données, en intégrant ces données dans un système d’information décisionnel (SID), et en créant des tableaux de bord visuels pour une prise de décision éclairée.
 
+## Contexte
+Les données liées aux jeux vidéo présentent une opportunité unique pour comprendre l'industrie à travers plusieurs perspectives : les ventes globales, les avis des joueurs, et la popularité dans le domaine de l'eSport. Cette analyse vise à créer une vision globale pour les décideurs dans ce secteur dynamique.
+
+## Objectifs
+- Fournir une vision complète de l'industrie des jeux vidéo à travers des analyses basées sur des données fiables.
+- Identifier les tendances clés et les facteurs de succès des jeux vidéo populaires.
+- Présenter les résultats à l’aide de tableaux de bord interactifs sur Power BI.
+
 ## Contenu
-### 1. Sources de Données 
-Nous utilisons les datasets suivants : 
-- **Video Game Sales Dataset Updated -Extra Feat** : Données sur les ventes de jeux vidéo. 
-- **Top 1500 Games on Steam by Revenue (09-09-2024)** : Informations sur les jeux les plus populaires. 
-- **Epic Games Store Data** : Statistiques de ventes et avis des utilisateurs. 
+### 1. Sources de Données
+Nous utilisons les datasets suivants :
+- **Video Game Sales Dataset Updated - Extra Feat** : Données sur les ventes de jeux vidéo.
+- **Top 1500 Games on Steam by Revenue (09-09-2024)** : Informations sur les jeux les plus populaires.
+- **Epic Games Store Data** : Statistiques de ventes et avis des utilisateurs.
+Ces données sont accessibles via des plateformes comme [Kaggle](https://www.kaggle.com/).
 
-Ces données sont accessibles via des plateformes comme [Kaggle](https://www.kaggle.com). 
+### 2. Modèle des Données
+Un modèle structuré permet d’intégrer et de lier les données de différentes sources :
+- **Organisation par tables** : Chaque source est représentée dans des tables distinctes.
+- **Clés communes** : Liens entre les tables basés sur des champs partagés (ID produit, région, catégorie, etc.).
 
-### 2. Modèle des Données 
-Un modèle structuré permet d’intégrer et de lier les données de différentes sources : 
-- **Organisation par tables** : Chaque source est représentée dans des tables distinctes. 
-- **Clés communes** : Liens entre les tables basés sur des champs partagés (ID produit, région, catégorie, etc.). 
+### 3. Processus ETL (Extraction, Transformation, Chargement)
+- **Granularité** :
+  - **Plateforme spécifique** : Séparer les ventes selon les plateformes pour comprendre leurs dynamiques respectives.
+  - **Genre de jeu** : Catégoriser les jeux par genre afin d’analyser les préférences des joueurs.
+- **Mise à jour périodique** : Alimentation mensuelle du SID.
 
-### 3. Processus ETL (Extraction, Transformation, Chargement) 
-- **Granularité** : 
-  - Plateforme spécifique: Séparer les ventes selon les plateformes spécifiques pour comprendre comment chaque plateforme évolue.
-  - Genre de jeu: Catégoriser les jeux par genre pour étudier les préférences des joueurs par plateforme.
-
-- **Mise à jour périodique** : Alimentation mensuelle du SID. 
-
-### 4. Tableau de Bord 
-Les analyses incluent : 
-- Répartition des ventes par produit. 
-- Analyse des revenus par plateforme. 
-- Étude de la satisfaction client. 
-- Répartition des consommateurs par tranche d’âge. 
+### 4. Tableau de Bord
+Les analyses incluent :
+- Répartition des ventes par produit.
+- Analyse des revenus par plateforme.
+- Étude de la satisfaction client.
+- Répartition des consommateurs par tranche d’âge.
 
 ## Auteurs 
 - [Matteo Cai]()
