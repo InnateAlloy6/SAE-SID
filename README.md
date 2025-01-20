@@ -92,7 +92,7 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
     - Remplacement de "." par "," pour les valeurs numériques
 - Mise en place du modéle de données en "étoile" pour les ventes
   
-# 20/01/2025
+# 20/01/2025 - Date de rendu
 - Rédaction du rapport rapport finale
 - Finalisation de la mise en place des données
   - Mise en place des visualisations
