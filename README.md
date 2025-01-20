@@ -1,9 +1,9 @@
 # SAE-SID
 
-# Analyse des Comportements d’Achat en Ligne 
+# Analyse des tendences d'achats des jeux videos en ligne 
 
 ## Description du Projet 
-Ce projet vise à analyser les comportements des consommateurs dans le domaine du commerce en ligne afin de répondre à la problématique :   
+Ce projet vise à analyser les comportements des consommateurs dans le domaine du commerce en ligne de jeux videos afin de répondre à la problématique :   
 
 **”Quelle est la rentabilité des jeux vidéo selon les plateformes (PC, consoles, mobile) et quels sont les facteurs qui influencent cette rentabilité ?”** 
 L’objectif est de fournir des insights détaillés en exploitant diverses sources de données, en intégrant ces données dans un système d’information décisionnel (SID), et en créant des tableaux de bord visuels pour une prise de décision éclairée.
@@ -85,8 +85,10 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
   - Video Games
     - Changement de type pour les dates (Texte -> Date)
     - Remplacement de "." par "," pour les valeurs numériques
-
+- Mise en place du modéle de données en "étoile" pour les ventes
+  
 # 20/01/2025
 - Rédaction du rapport rapport finale
+- Mise en place du modéle de données en "étoile" pour le rating
 - Finalisation de la mise en place des données
   - Mise en place des visualisations
