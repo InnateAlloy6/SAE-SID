@@ -5,10 +5,15 @@
 ## Description du Projet 
 Ce projet vise à analyser les comportements des consommateurs dans le domaine du commerce en ligne de jeux vidéo afin de répondre à la problématique :
 **”Quels sont les plus grands consommateurs de produits en ligne ?”** 
+
 L’objectif est de fournir des insights détaillés en exploitant diverses sources de données, en intégrant ces données dans un système d’information décisionnel (SID), et en créant des tableaux de bord visuels pour une prise de décision éclairée.
 
 ## Contexte
-Les données liées aux jeux vidéo présentent une opportunité unique pour comprendre l'industrie à travers plusieurs perspectives : les ventes globales, les avis des joueurs, et la popularité dans le domaine de l'eSport. Cette analyse vise à créer une vision globale pour les décideurs dans ce secteur dynamique.
+Les données liées aux jeux vidéo présentent une opportunité unique pour comprendre l'industrie à travers plusieurs perspectives :
+- les ventes globales
+- les avis des joueurs
+
+Cette analyse vise à créer une vision globale pour les décideurs dans ce secteur dynamique.
 
 ## Objectifs
 - Fournir une vision complète de l'industrie des jeux vidéo à travers des analyses basées sur des données fiables.
@@ -21,6 +26,7 @@ Nous utilisons les datasets suivants :
 - **Video Game Sales Dataset Updated - Extra Feat** : Données sur les ventes de jeux vidéo.
 - **Top 1500 Games on Steam by Revenue (09-09-2024)** : Informations sur les jeux les plus populaires.
 - **Epic Games Store Data** : Statistiques de ventes et avis des utilisateurs.
+
 Ces données sont accessibles via des plateformes comme [Kaggle](https://www.kaggle.com/).
 
 ### 2. Modèle des Données
