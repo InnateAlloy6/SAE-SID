@@ -41,7 +41,7 @@ Les analyses incluent :
 - [Diego Casas](https://github.com/InnateAlloy6) 
 - **[Leo Jean Unite](https://github.com/TheColonel92)** 
 
-Projet réalisé dans le cadre du module **SF23Y020 – Intégration de données dans un Datawarehouse**. 
+Projet réalisé dans le cadre du module **[SF23Y020 – Intégration de données dans un Datawarehouse](https://up75-my.sharepoint.com/:f:/g/personal/leo-jean_unite_etu_u-paris_fr/EqiZWGWtvFpEk5rG8xhknTABkemmmbbd0obIYjkIXZsMcg?e=Rxe9zh)**. 
 
 ## Usage 
 1. **Installation** : Cloner le dépôt et s’assurer que les dépendances nécessaires sont installées. 
@@ -50,7 +50,7 @@ Projet réalisé dans le cadre du module **SF23Y020 – Intégration de données
 ## License 
 Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d’informations. 
 
-----
+------------------------------------------------------------------------------------------------
 # 04/12/2024 - Création d'un dossier commun Github
 Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/personal/leo-jean_unite_etu_u-paris_fr/EqiZWGWtvFpEk5rG8xhknTABkemmmbbd0obIYjkIXZsMcg?e=Rxe9zh) ---> Github
 
@@ -61,7 +61,7 @@ Importation des documents [Onedrive](https://up75-my.sharepoint.com/:f:/g/person
   - [Video Game Sales Dataset Updated -Extra Feat](https://www.kaggle.com/datasets/ibriiee/video-games-sales-dataset-2022-updated-extra-feat)
   - [Top 1500 games on steam by revenue 09-09-2024](https://www.kaggle.com/datasets/alicemtopcu/top-1500-games-on-steam-by-revenue-09-09-2024)
   - [Epic Games Store](https://www.kaggle.com/datasets/ramjasmaurya/epic-games-store)
-- Rapport 3
+- Rédaction du Rapport 3
 
 # 08/01/2025 - Continuation du projet
 - Rassemblement des données
